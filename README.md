@@ -1,11 +1,11 @@
-# SleepMode V1.0
+# Loryer V1.0
 
-External cheat made from various posts around Unknowncheats.me
-I do plan to add some kind of settings so all of the values arent hard corded. you can reach me at youtube.com or unknowncheats.me @vitalflea
-
-Features:
--BunnyHop
--TriggerBot(incross)
--rcs
+UNDETECTED - 1/6/2017
+-BunnyHop (space)
+-SkinChanger (only some primary weapons)
+-TriggerBot (alt key)
 
 
+ Thought I would release an external cheat i have been working on. It is hardcoded to my preferred keys and skins.
+
+My main account got hit up so I'll be taking a little break.
