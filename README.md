@@ -1,6 +1,6 @@
 # Loryer V1.1
 
-UNDETECTED - 1/6/2017
+UNDETECTED AS OF - 1/7/2017
 
 -BunnyHop (space)
 
