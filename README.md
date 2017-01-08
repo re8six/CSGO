@@ -1,4 +1,4 @@
-# Loryer V1.0
+# Loryer V1.1
 
 UNDETECTED - 1/6/2017
 
@@ -7,6 +7,4 @@ UNDETECTED - 1/6/2017
 -SkinChanger (only some primary weapons)
 
 -TriggerBot (alt key)
-
-
-My main account got hit up so I'll be taking a little break.
+  -auto weapon swap with sniper (last weapon must be bound to f1)
